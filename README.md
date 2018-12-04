@@ -1,2 +1,2 @@
-# icg-ts-utils
-TypeScript Utils
+# ICG TypeScript Utils
+
